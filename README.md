@@ -521,6 +521,7 @@ Don't forget that OSINT's main strength is in automation. Read the [Netlas Cookb
 | [Tweepsmap Unfollows](https://tweepsmap.com/dash/unfollows) | displayed unsubscribed accounts (list for the one week available for free) |
 | [app.truthnest.com](https://app.truthnest.com/) | best tool for Twitter account investigation |
 | [Whotwi](https://en.whotwi.com/) | A free online tool for analysing your #Twitter account: - shows the mutual following; - search for tweets by calendar; - list of most active readers; - analysis of daily activity, hashtags and more. |
+| [Twitter Trends](https://trends50.net/) | Best tool to find #Twitter trending topics & hashtags: 1. See what is popular or trending on a current day in a particular country, city or worldwide.
 | [Treeverse.app](https://treeverse.app) | view dialogs in Twitter as a graph |
 | [Hashtagify](https://hashtagify.me/) | compare the popularity of the two hashtags |
 | [Scoutzen](https://www.scoutzen.com/twitter-lists/search) | search twitter lists by keywords |
